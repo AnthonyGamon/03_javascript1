@@ -1,5 +1,8 @@
 # 03_javascript1
 
+![screenshot](https://user-images.githubusercontent.com/68041150/94874520-ccb36580-0417-11eb-8a4d-1d2c014225af.jpeg)
+
+
 Here is a live link to my page : https://anthonygamon.github.io/03_javascript1/
 
 With this assignment I was given the task to make a password generator that allowed the user to make a random passoword that they were able to create using different options depending on which they selected and didn't select. 
