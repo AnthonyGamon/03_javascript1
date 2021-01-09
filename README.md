@@ -6,7 +6,7 @@
 ##### * [Description](#description)
 ##### * [Visuals](#visuals)
 ##### * [RunTests](#tests)
-##### * [Contributing](#contributing)
+##### * [Tools](#tools)
 ##### * [Questions](#questions)
 
 ## Username
@@ -23,6 +23,9 @@ This application allows the user to create a randomly generated password by answ
 
 ## Tests
 To test this the user will need to run node index.js in their terminal. 
+
+## Tools
+I used the following tools for this application : HTML, CSS and JS. 
 
 ## Questions
 If you have any questions about this repo, open an issue or contact me directly at anthonygamon@icloud.com. 
