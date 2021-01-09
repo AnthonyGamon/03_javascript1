@@ -22,10 +22,7 @@ This application allows the user to create a randomly generated password by answ
 ![screenshot](https://user-images.githubusercontent.com/68041150/94874520-ccb36580-0417-11eb-8a4d-1d2c014225af.jpeg)
 
 ## Tests
-The user will need to run node index.js
-
-## Contributing
-Nothing
+To test this the user will need to run node index.js in their terminal. 
 
 ## Questions
 If you have any questions about this repo, open an issue or contact me directly at anthonygamon@icloud.com. 
